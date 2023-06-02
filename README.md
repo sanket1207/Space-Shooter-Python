@@ -49,9 +49,6 @@ python main.py
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
 
 ## Acknowledgements
 
@@ -59,6 +56,6 @@ This project was inspired by classic space shooter games and was developed using
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [Sanket.agarthade@gmail.com](mailto:Sanket.agarthade@gmail.com).
 
 Let's embark on an exciting space adventure with Space Shooter!
