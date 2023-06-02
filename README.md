@@ -38,7 +38,7 @@ cd Space-Shooter
 3. Run the game:
 
 ```
-python space_shooter.py
+python main.py
 ```
 
 4. Use the arrow keys or WASD keys to control the spaceship. Press the spacebar to shoot projectiles at enemy ships.
